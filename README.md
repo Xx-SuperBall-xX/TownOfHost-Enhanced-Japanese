@@ -1,2 +1,1 @@
-# TownOfHost-Enhanced-Japanese
-TownOfHost-Enhancedの日本語翻訳ファイル
+# TownOfHost-Enhancedを日本語化させたファイルを置く場所
