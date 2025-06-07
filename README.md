@@ -1,4 +1,4 @@
-# TownOfHost-Enhancedを日本語化させたファイルの置き場
+# TownOfHost-Enhanced Japanese
 ## ※注意※
 これはAmong UsのMODである[TownOfHost-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced)を日本語化させたファイルでありMODではない事をご把握してください。
 ## 禁止事項
