@@ -7,7 +7,6 @@
 ## 翻訳者
 - [すぱ](https://github.com/Xx-SuperBall-xX)
 - [牛3円偽](https://github.com/usi3ennnise)
-- yuki
 ## 現在の進捗！
 ちょくちょく進めてます。
 ![image](https://github.com/user-attachments/assets/a05d8ba2-b7d8-4f43-9793-83e6a1aafe7e)
